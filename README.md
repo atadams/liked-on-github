@@ -10,3 +10,6 @@
 
 ### August 10, 2016
 - [Home - health-lifesci.schema.org](http://health-lifesci.schema.org/) 
+
+### August 12, 2016
+- [WCAG is not scary anymore - A progressive approach to Website Accessibility | Herin Hentry | Pulse | LinkedIn](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles) 
