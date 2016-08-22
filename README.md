@@ -13,3 +13,6 @@
 
 ### August 12, 2016
 - [WCAG is not scary anymore - A progressive approach to Website Accessibility | Herin Hentry | Pulse | LinkedIn](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles) 
+
+### August 22, 2016
+- [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/) 
