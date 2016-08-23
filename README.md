@@ -16,3 +16,6 @@
 
 ### August 22, 2016
 - [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/) 
+
+### August 23, 2016
+- [Tutorials Overview • WAI Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) 
