@@ -19,3 +19,6 @@
 
 ### August 23, 2016
 - [Tutorials Overview • WAI Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) 
+
+### August 24, 2016
+- [30 Lightweight JavaScript Plugins and Libraries from 2016 - Speckyboy Design Magazine](https://speckyboy.com/2016/08/24/30-lightweight-javascript-plugins-and-libraries-from-2016/) 
