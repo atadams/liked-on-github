@@ -24,3 +24,4 @@
 - [30 Lightweight JavaScript Plugins and Libraries from 2016 - Speckyboy Design Magazine](https://speckyboy.com/2016/08/24/30-lightweight-javascript-plugins-and-libraries-from-2016/) 
 - [Background Blur - plugin by @msurguy](https://msurguy.github.io/background-blur/) 
 - [The Complete Guide to Optimising Web Images](https://robots.thoughtbot.com/the-complete-guide-to-optimising-web-images) 
+- [WebFont Medical Icons](http://samcome.github.io/webfont-medical-icons/) 
