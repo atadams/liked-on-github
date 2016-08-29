@@ -28,3 +28,4 @@
 
 ### August 29, 2016
 - [mozilla/http-observatory: HTTP Observatory](https://github.com/mozilla/http-observatory) 
+- [D3 in Depth](http://d3indepth.com/) 
