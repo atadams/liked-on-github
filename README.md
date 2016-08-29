@@ -25,3 +25,6 @@
 - [Background Blur - plugin by @msurguy](https://msurguy.github.io/background-blur/) 
 - [The Complete Guide to Optimising Web Images](https://robots.thoughtbot.com/the-complete-guide-to-optimising-web-images) 
 - [WebFont Medical Icons](http://samcome.github.io/webfont-medical-icons/) 
+
+### August 29, 2016
+- [mozilla/http-observatory: HTTP Observatory](https://github.com/mozilla/http-observatory) 
