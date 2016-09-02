@@ -29,3 +29,6 @@
 ### August 29, 2016
 - [mozilla/http-observatory: HTTP Observatory](https://github.com/mozilla/http-observatory) 
 - [D3 in Depth](http://d3indepth.com/) 
+
+### September 2, 2016
+- [Web Developer Checklist](http://webdevchecklist.com/) 
