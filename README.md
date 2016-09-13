@@ -32,3 +32,6 @@
 
 ### September 2, 2016
 - [Web Developer Checklist](http://webdevchecklist.com/) 
+
+### September 13, 2016
+- [Type Terms](https://www.supremo.tv/typeterms/) 
