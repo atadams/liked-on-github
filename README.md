@@ -35,3 +35,4 @@
 
 ### September 13, 2016
 - [Type Terms](https://www.supremo.tv/typeterms/) 
+- [Beyond usability: Designing with persuasive patterns](http://ui-patterns.com/blog/beyond-usability-designing-with-persuasive-patterns) 
