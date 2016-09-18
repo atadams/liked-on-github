@@ -36,3 +36,6 @@
 ### September 13, 2016
 - [Type Terms](https://www.supremo.tv/typeterms/) 
 - [Beyond usability: Designing with persuasive patterns](http://ui-patterns.com/blog/beyond-usability-designing-with-persuasive-patterns) 
+
+### September 18, 2016
+- [A Nerd's Guide to Color on the Web | CSS-Tricks](https://css-tricks.com/nerds-guide-color-web/?ref=webdesignernews.com) 
