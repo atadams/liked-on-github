@@ -39,3 +39,6 @@
 
 ### September 18, 2016
 - [A Nerd's Guide to Color on the Web | CSS-Tricks](https://css-tricks.com/nerds-guide-color-web/?ref=webdesignernews.com) 
+
+### September 21, 2016
+- [Welcome to Python cheatsheet! — python-cheatsheet 0.1.0 documentation](https://www.pythonsheets.com/) 
