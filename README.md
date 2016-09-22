@@ -42,3 +42,6 @@
 
 ### September 21, 2016
 - [Welcome to Python cheatsheet! — python-cheatsheet 0.1.0 documentation](https://www.pythonsheets.com/) 
+
+### September 22, 2016
+- [Home - Accessibility Guide](https://pages.18f.gov/accessibility/) 
