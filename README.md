@@ -45,3 +45,6 @@
 
 ### September 22, 2016
 - [Home - Accessibility Guide](https://pages.18f.gov/accessibility/) 
+
+### October 13, 2016
+- [Popular Python recipes « ActiveState Code](http://code.activestate.com/recipes/langs/python/) 
