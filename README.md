@@ -48,3 +48,6 @@
 
 ### October 13, 2016
 - [Popular Python recipes « ActiveState Code](http://code.activestate.com/recipes/langs/python/) 
+
+### November 1, 2016
+- [Practical Frameworks for Beating Burnout | First Round Review](http://firstround.com/review/practical-frameworks-for-beating-burnout/) 
