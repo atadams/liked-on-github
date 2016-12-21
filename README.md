@@ -51,3 +51,6 @@
 
 ### November 1, 2016
 - [Practical Frameworks for Beating Burnout | First Round Review](http://firstround.com/review/practical-frameworks-for-beating-burnout/) 
+
+### December 21, 2016
+- [Homepage - Semantic](http://aadams.ad.bcm.edu:5757/?ckcachecontrol=1482346905/) 
